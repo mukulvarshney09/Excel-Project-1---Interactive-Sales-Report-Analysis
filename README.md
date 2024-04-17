@@ -1,10 +1,10 @@
-This is a complete project on Excel with an Interactive Dashboard.
+This is a complete project in Excel with an Interactive Dashboard.
 
 ## Dashboard Visual
-
+![Dashboard](https://github.com/mukulvarshney09/Excel-Project-1---Interactive-Sales-Report-Analysis/assets/123244732/0218ba3f-a36e-446a-9697-d2434c3b1af4)
 
 ## Objective
-The goal of this project is to find the required insights and make analyses based on the information for sales growth. Few requirements to work on:
+The goal of this project is to find the required insights and make analyses based on the information for sales growth. A few requirements to work on:
 
 - Compare the sales and orders using a single chart.
 -	Which month had the highest sales and orders?
@@ -13,7 +13,7 @@ The goal of this project is to find the required insights and make analyses base
 -	List the top 10 states contributing to the sales.
 -	Relation between age and gender based on sales.
 -	Which channel is contributing to the maximum sales?
--	What is the highest selling category?
+-	What is the highest-selling category?
 
 ## Dataset Overview
 The dataset includes sales data from the shop, encompassing parameters such as order ID, customer ID, gender, age, date, month, status, channel, category, size, quantity, amount, etc.
