@@ -4,7 +4,7 @@ This is a complete project in Excel with an Interactive Dashboard.
 ![Dashboard](https://github.com/mukulvarshney09/Excel-Project-1---Interactive-Sales-Report-Analysis/assets/123244732/0218ba3f-a36e-446a-9697-d2434c3b1af4)
 
 ## Objective
-The goal of this project is to find the required insights and make analyses based on the information for sales growth. A few requirements to work on:
+This project aims to find the required insights and make analyses based on the information for sales growth. A few requirements to work on:
 
 - Compare the sales and orders using a single chart.
 -	Which month had the highest sales and orders?
@@ -30,11 +30,11 @@ The dataset includes sales data from the shop, encompassing parameters such as o
 -	March has the highest sales and orders.
 -	Women tend to buy more than men (64%).
 -	Around 92% of orders are successfully delivered.
--	MH, KA, and UP are the top 3 states in terms of sales.
--	Adults age group (30-49 yrs) is contributing to the maximum sales, around 50%.
+-	MH, KA, and UP are the top 3 states in sales.
+-	Adults age group (30-49 yrs) contributes to the maximum sales, around 50%.
 -	Amazon, Myntra, and Flipkart contribute to around 80% of sales.
--	Sets and Kurtas are the highest selling categories (75%).
+-	Sets and Kurtas are the highest-selling categories (75%).
 
 # Conclusion:
-Target women customers of age group between 30-49 yrs living in MH, KA, and UP with ads/offers on Amazon, Myntra, and Flipkart.
+Target women customers of the age group between 30-49 years living in MH, KA, and UP with ads/offers on Amazon, Myntra, and Flipkart.
 
